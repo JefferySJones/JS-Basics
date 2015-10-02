@@ -87,7 +87,7 @@ getName();
 //Now save the function definition of myName into a new variable called newMyName
 
   //Code Here
-  var newMyName = myName();
+  var newMyName = myName;
 
 //Now alert the result of invoking newMyName
   alert(newMyName);
